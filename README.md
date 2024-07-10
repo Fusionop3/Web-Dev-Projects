@@ -1,2 +1,2 @@
 # Web-Dev-Projects
-file:///D:/Web-Dev-Projects/To-Do%20list/index.html
+http://127.0.0.1:5500/To-Do%20list/index.html
